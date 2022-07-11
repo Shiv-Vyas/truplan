@@ -37,10 +37,10 @@ return(
             </Col>
             <Col md={6}>
                
-                <p>Copyright © 2022 Truplan Inc. All rights reserved.</p><br>
+                <p>Copyright © 2022 Truplan Inc. All rights reserved.</p><br>  </br>
                 <p>416-573-2096</p>
                 <p>truplan@sympatico.ca</p>
-                </br>
+              
                
             </Col>
             </Row>  
