@@ -3,7 +3,6 @@ import Home from "./Home";
 import React from "react";
 
 
-import Pricing from "./pricing";
 import Samples from "./samples";
 import Equipment from "./equipment";
 import FAQ from "./faq"
@@ -16,19 +15,19 @@ import SampleFive from "./samplefive";
 import SampleSix from "./samplesix"
 import Contacter from "./contactpage";
 import Footer from "./footer";
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import {BrowserRouter as Router, HashRouter, Routes, Route} from 'react-router-dom'
 
 
 function App(){
     return(
-<Router>
+<Router >
     <div>
         <NavBarHead />
 
-        <Routes>
-
+        
+<Routes>
             <Route path="/" element={<Home />}></Route>
-            <Route path="/pricing" element={<Pricing />}></Route>
+        
             <Route path="/contact" element={<Contacter />}></Route>
             <Route path="/samples" element={<Samples />}></Route>  
             <Route path="/equipment" element={<Equipment/>}></Route>
@@ -40,11 +39,11 @@ function App(){
             <Route path="/samplefour" element={<SampleFour />}></Route>
             <Route path="/samplefive" element={<SampleFive />}></Route>
             <Route path="/samplesix" element={<SampleSix />}></Route>
-        </Routes>
+            </Routes>
         <Footer />
     </div>
 
-</Router>
+    </Router>
     );
 }
 
