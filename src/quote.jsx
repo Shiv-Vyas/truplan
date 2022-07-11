@@ -30,7 +30,7 @@ function Quote() {
 
     textUpdate("Thank you for contacting us. We will get back to you A.S.A.P.")
     classUpdate("success")
-axios.post("http://localhost:3001/create", newObject);
+axios.post("https://truplan-web.herokuapp.com/create", newObject);
 
 }
 
