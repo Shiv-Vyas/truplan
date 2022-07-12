@@ -8,13 +8,13 @@ function FAQ(){
     <Accordion.Item eventKey="0">
       <Accordion.Header>What is the process for measuring and drafting?</Accordion.Header>
       <Accordion.Body>
-        The process is very simple and customer friendly. First we discuss in detail what our clients need is; which will generally involve a full measurement of their property and a draft. Then we send one of our surveyors to measure the property on an agreed date. After we get the measurements, we draft the property on a drafting software like Softplan and Autocad. Lastly, we deliver the floorplan to the client in their preferred file format. 
+        The process is very simple and customer friendly. First, we discuss in detail what our clients need are; which will generally involve a full measurement of their property and a floorplan draft. Then, we send one of our surveyors to measure the property on an agreed date. After we get the measurements, we draft the property on a drafting software like Softplan and Autocad. Lastly, we deliver the floorplan to the client in their preferred file format. 
       </Accordion.Body>
     </Accordion.Item>
     <Accordion.Item eventKey="1">
       <Accordion.Header>How long will the surveyor be in the property?</Accordion.Header>
       <Accordion.Body>
-        The time spent in the property will depend on the size of the property and the amount of detail requested in the floorplan. For reference a simple marketing plan for a 2000-3000 sqft residence will take a maximum of 2 hours. For most properties, the estimated time to do the measurements will be discussed on the phone prior to the surveyor being sent.
+        The time spent in the property will depend on the size of the property and the amount of detail requested in the floorplan. For reference a simple marketing plan for a 2000-3000 sqft residence will take a maximum of 1 hour. For most properties, the estimated time to do the measurements will be discussed on the phone prior to the surveyor being sent.
       </Accordion.Body>
     </Accordion.Item>
     <Accordion.Item eventKey="2">
@@ -32,7 +32,7 @@ function FAQ(){
     <Accordion.Item eventKey="4">
       <Accordion.Header>Can I request revisions to the plan?</Accordion.Header>
       <Accordion.Body>
-        After the plan is completed and delivered, you are able to request a revision. Generally it will not cost extra to have a few revisions, however this can change as it is a case to case decision. If you notice something wrong with the floorplan then you are always welcome to contact us by our phone number and email. 
+        After the plan is completed and delivered, you are able to request a revision. Generally it will not cost extra to have a few revisions. If you notice something wrong with the floorplan then you are always welcome to contact us via our phone number and email address. 
       </Accordion.Body>
     </Accordion.Item>
     <Accordion.Item eventKey="5">
