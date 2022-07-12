@@ -35,7 +35,7 @@ function Contacter(){
       return (
         <Container className="formContainer">
             <h1>Contact us</h1>
-            <h6 style={{color:"#e74c3c", marginBottom:"3vh"}}>For any inquiries you may have or information you would like to know, you can contact us by calling or emailing us. You can also quickly fill out the short form and we will get back to you soon.</h6>
+            <h6 style={{color:"#e74c3c", marginBottom:"3vh"}}>If you have any inquires, you can contact us by calling or emailing us. You can also quickly fill out the short form and we will get back to you soon. Otherwise, check out our <a style={{color: "#3742fa", textDecoration:"none", fontSize:"1.2rem"}} href="/FAQ">FAQ</a> for commonly asked questions.</h6>
             
             <h5 style={{marginBottom:"3vh"}}>Call Us: 416-573-2096 | Email us: truplan@sympatico.ca</h5>
             

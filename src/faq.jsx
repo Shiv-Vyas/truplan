@@ -3,7 +3,8 @@ import {Accordion, Container} from "react-bootstrap"
 function FAQ(){
     return(
         <Container className="formContainer">
-            <h1 style={{marginBottom:"3vh"}}>Some of our clients frequently asked questions:</h1>
+            <h1 >Some of our clients frequently asked questions:</h1>
+            <h5 style={{marginBottom:"3vh"}}>If your question is not answered, you may contact us <a style={{color: "#3742fa", textDecoration:"none", fontSize:"1.2rem"}} href="/contact">here.</a></h5>
     <Accordion style={{marginBottom:"11vh"}}>
     <Accordion.Item eventKey="0">
       <Accordion.Header>What is the process for measuring and drafting?</Accordion.Header>

@@ -11,7 +11,7 @@ function Equipment(){
         
           <Row style={{display:"flex", justifyContent:"Center", alignItems:"center", textAlign:"left"}}>
             <Col >
-            <h3>Softplan is a software used universally for architectural and real estate design.</h3>
+            <h3>Softplan is used universally for architectural and real estate design.</h3>
             <p >Truplan has been using Softplan since its conception two decades ago and it has been a staple in our company ever since. We have created some beautiful floorplans using this software over the years; check out some of our samples here:</p>
             <Button className="buttonClass" href="/samples" variant="success">Samples</Button>
     </Col>
@@ -29,7 +29,7 @@ function Equipment(){
         </Container>
         </Col>
         <Col md= {6}>
-        <h3>We are also familiar with the industry staple architecture program Autocad</h3>
+        <h3>We are also familiar with the architectural program Autocad</h3>
                 <p >Although we primarily use Softplan to draft our floorplans. Both Softplan and Autocad have compatible and transferrable files. Some of our customers prefer Autocad files as delivery and we are more than happy to work according to their preferences.</p>
         </Col>
         </Row>
