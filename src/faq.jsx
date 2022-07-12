@@ -26,7 +26,7 @@ function FAQ(){
     <Accordion.Item eventKey="3">
       <Accordion.Header>How long until I get the delivery of my floorplan?</Accordion.Header>
       <Accordion.Body>
-        After we have measured and drafted your floorplan, we will send it to your right away. Most of the time it is within the same week that it was measured. There are exceptions when the properties are large residences, stores or factories; which take longer to measure and draft.  
+        After we have measured and drafted your floorplan, we will send it to you right away. Most of the time it is within the same week that it was measured. There are exceptions when the properties are large residences, stores or factories; which take longer to measure and draft.  
       </Accordion.Body>
     </Accordion.Item>
     <Accordion.Item eventKey="4">

@@ -52,7 +52,7 @@ function Equipment(){
         </Container>
         </Col>
         <Col lg={4}>
-        <p>The <b>Leica DISTO E7500i</b> is a measuring powerhouse. It's laser ranges upto 650 ft with an accuracy up to 1mm. It also has a 360 degree sensor with a range of mathematical functions.</p>
+        <p>The <b>Leica DISTO E7500i</b> is a measuring powerhouse. It's laser ranges upto 650 ft with an accuracy up to 1mm. This is a great tool to use for measuring large commercial and industrial properties.</p>
         <Container className="sampleContainerLarge"fluid>
         <img alt ="laser "className ="sampleImageEquipment"src={lasertwo}></img>
         </Container>
