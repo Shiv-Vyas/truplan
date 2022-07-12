@@ -8,7 +8,7 @@ function FAQ(){
     <Accordion.Item eventKey="0">
       <Accordion.Header>What is the process for measuring and drafting?</Accordion.Header>
       <Accordion.Body>
-        The process is actually quite simple. First we discuss in detail what our clients need is; which will generally involve a full measurement of their property and a draft. Then we send one of our surveyors to measure the property on an agreed date. After we get the measurements, we draft the property on a drafting software like Softplan and Autocad. Lastly, we deliver the floorplan to the client in their preferred file format. 
+        The process is very simple and customer friendly. First we discuss in detail what our clients need is; which will generally involve a full measurement of their property and a draft. Then we send one of our surveyors to measure the property on an agreed date. After we get the measurements, we draft the property on a drafting software like Softplan and Autocad. Lastly, we deliver the floorplan to the client in their preferred file format. 
       </Accordion.Body>
     </Accordion.Item>
     <Accordion.Item eventKey="1">
