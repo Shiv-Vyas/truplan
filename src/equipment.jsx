@@ -33,10 +33,10 @@ function Equipment(){
                 <p >Although we primarily use Softplan to draft our floorplans. Both Softplan and Autocad have compatible and transferrable files. Some of our customers prefer Autocad files as delivery and we are more than happy to work according to their preferences.</p>
         </Col>
         </Row>
-
+<hr style={{height:"0.2vh", backgroundColor:"black", boxShadow:"2px 2px 5px black"}}></hr>
         <Row style={{display:"flex", justifyContent:"Center", alignItems:"center", textAlign:"center"}} >
             <Col lg={12}>
-        <h3 style={{marginBottom:"4vh"}}>Our favourite laser measuring tools</h3>
+        <h3 style={{marginBottom:"4vh", marginTop:"4vh"}}>Our favourite laser measuring tools</h3>
         
         </Col>
         <Col lg={4}>
